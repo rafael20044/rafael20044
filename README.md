@@ -8,8 +8,8 @@
 Puedes preguntarme acerca de:
 
 - 💬 Temas relacionados con la ingeniería en sistemas y desarrollo de software.
-- 📫 Cómo contactarme: [¡Aquí está mi correo electrónico!](mailto:tuemail@example.com)
-- 😄 Mis pronombres: [tus pronombres]
+- 📫 Cómo contactarme: [¡Aquí está mi correo electrónico!](rafaelenriquext@gmail.com)
+
 
 Tecnologías que conozco y trabajo con:
 
