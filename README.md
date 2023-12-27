@@ -8,7 +8,7 @@
 Puedes preguntarme acerca de:
 
 - 💬 Temas relacionados con la ingeniería en sistemas y desarrollo de software.
-- 📫 Cómo contactarme: [¡Aquí está mi correo electrónico!](rafaelenriquext@gmail.com)
+- 📫 Cómo contactarme: [rafaelenriquext@gmail.com].
 
 
 Tecnologías que conozco y trabajo con:
