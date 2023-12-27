@@ -1,16 +1,22 @@
-### Hi there 👋
+¡Hola! 👋 Soy Rafael, un estudiante de ingeniería en sistemas apasionado por la tecnología. Actualmente, estoy enfocado en:
 
-<!--
-**rafael20044/rafael20044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Trabajando en mi formación académica en ingeniería en sistemas.
+- 🌱 Aprendiendo constantemente sobre nuevas tecnologías y metodologías.
+- 👯 Buscando colaborar en proyectos interesantes relacionados con desarrollo de software.
+- 🤔 Buscando ayuda y aprendizaje continuo en el mundo de la ingeniería en sistemas.
 
-Here are some ideas to get you started:
+Puedes preguntarme acerca de:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Temas relacionados con la ingeniería en sistemas y desarrollo de software.
+- 📫 Cómo contactarme: [¡Aquí está mi correo electrónico!](mailto:tuemail@example.com)
+- 😄 Mis pronombres: [tus pronombres]
+
+Tecnologías que conozco y trabajo con:
+
+- 💻 Desarrollo en Java y uso de NetBeans.
+- 🧠 Control de versiones con Git y GitHub.
+- 📊 Gestión de bases de datos con MariaDB.
+- 🐍 Programación en Python.
+- 🖥️ Desarrollo de software en Visual Studio Code.
+
+⚡ Dato curioso: ¡Me encanta explorar nuevas tecnologías y siempre estoy listo para un nuevo desafío en el mundo de la ingeniería en sistemas!
