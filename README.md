@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Rafael, un estudiante de ingeniería en sistemas apasionado por la tecnología. Actualmente, estoy enfocado en:
+¡Hola! 👋 Soy Rafael, un estudiante de tecnología en desarrollo de sistemas de información y software  apasionado por la tecnología. Actualmente, estoy enfocado en:
 
 - 🔭 Trabajando en mi formación académica en ingeniería en sistemas.
 - 🌱 Aprendiendo constantemente sobre nuevas tecnologías y metodologías.
