@@ -1,22 +1,19 @@
-¡Hola! 👋 Soy Rafael, un estudiante de tecnología en desarrollo de sistemas de información y software  apasionado por la tecnología. Actualmente, estoy enfocado en:
 
-- 🔭 Trabajando en mi formación académica en ingeniería en sistemas.
-- 🌱 Aprendiendo constantemente sobre nuevas tecnologías y metodologías.
-- 👯 Buscando colaborar en proyectos interesantes relacionados con desarrollo de software.
-- 🤔 Buscando ayuda y aprendizaje continuo en el mundo de la ingeniería en sistemas.
+# Hola, soy Rafael! 👋
+Soy un estudiante de tecnología en desarrollo de sistemas de información y software apasionado por la tecnología enfocado en el back-end con Java.
 
-Puedes preguntarme acerca de:
+## 🚀 Sobre mi
 
-- 💬 Temas relacionados con la ingeniería en sistemas y desarrollo de software.
-- 📫 Cómo contactarme: [rafaelenriquext@gmail.com].
+* 🔭 Estoy trabajando en mi formación académica en ingeniería en sistemas.
+* 🌱 Estoy aprendiendo constantemente sobre nuevas tecnologías y metodologías.
+* 👯 Estoy buscando colaborar en proyectos interesantes relacionados con el desarrollo de software.
+* 🤔 Estoy buscando ayuda y aprendizaje continuo en el mundo de la ingeniería en sistemas.
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rafael-barragan-acevedo-7785bb216)
 
 
-Tecnologías que conozco y trabajo con:
+## 🛠 Skills
+Java, Spring boot, MySQL, PostgreSQL
 
-- 💻 Desarrollo en Java y uso de NetBeans.
-- 🧠 Control de versiones con Git y GitHub.
-- 📊 Gestión de bases de datos con MariaDB.
-- 🐍 Programación en Python.
-- 🖥️ Desarrollo de software en Visual Studio Code.
-
-⚡ Dato curioso: ¡Me encanta explorar nuevas tecnologías y siempre estoy listo para un nuevo desafío en el mundo de la ingeniería en sistemas!
